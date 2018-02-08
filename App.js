@@ -28,7 +28,7 @@ export default class App extends Component<Props> {
           HorlogeReact
         </Text>
         <Text style={styles.instructions}>
-          To get started, edit App.js
+          Test commit
         </Text>
         <Text style={styles.instructions}>
           {instructions}
